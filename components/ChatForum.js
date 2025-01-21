@@ -12,7 +12,7 @@ const ChatForum = ({clerkUser , slug}) => {
 
     }
 
-    const apiKey = 'dz5f4d5kzrue';
+    const apiKey = 'YOUR_KEY';
     const userId = clerkUser.id;
     const userName = clerkUser.name;
     const userToken = clerkUser.token;
