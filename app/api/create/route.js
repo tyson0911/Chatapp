@@ -2,9 +2,9 @@ import { StreamChat, TokenManager } from "stream-chat";
 import { clerkClient } from '@clerk/nextjs/server'
 
 
-const api_key = "6tmcs5ukuv6y";
+const api_key = "YOUR KEY";
 const api_secret =
-  "mceagsp2bu4zzdwz2ub3hz3r7va796mjr8uhrgt8kjy7mven2ytpgbzbycybykt6";
+  "YOUR SECRET";
 
 
 export async function POST(request) {
